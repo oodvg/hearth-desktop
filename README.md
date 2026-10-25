@@ -5,4 +5,4 @@ Fluxer is a free and open source instant messaging and VoIP chat app built for f
 
 # What is Hearth?
 
-Hearth is my own small group that is built off of Fluxer. this client will ONLY connect to (Hearth)[https://chat.oodvg.xyz]
+Hearth is my own small group that is built off of Fluxer. this client will ONLY connect to [Hearth](https://chat.oodvg.xyz)
